@@ -28,3 +28,8 @@ A C# command-line tool to automate cherry-picking multiple Git revisions safely 
 
 ```bash
 cd GitGuru
+```
+
+3. Build the project to release
+4. Add the release folder to c:\ Drive
+5. Add the path to System's PATH   
